@@ -1,4 +1,4 @@
-# Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
+# 5) Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
 
 var_raio = float(input("Digite valor raio: \n"));
 
