@@ -4,7 +4,7 @@
 #c) o terceiro elevado ao cubo.
 
 var_int_numero1 = int(input("Digite um número inteiro:\n"));
-var_int_numero2 = int(input("Digite um número inteiro novamente\n"));
+var_int_numero2 = int(input("Digite um número inteiro novamente:\n"));
 var_float_numero3 = float(input("Digite um número real float:\n"));
 
 #a)
