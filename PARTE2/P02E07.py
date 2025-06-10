@@ -1,8 +1,8 @@
 #7) Faça um Programa que leia três números e mostre o maior deles.
 
-var_numero1 = float(input("Digite o primeiro número:\n\t"));
-var_numero2 = float(input("Digite o segundo número:\n\t"));
-var_numero3 = float(input("Digite o terceiro número:\n\t"));
+var_numero1 = float(input("Valor do primeiro número:\n\t"));
+var_numero2 = float(input("Valor do segundo número:\n\t"));
+var_numero3 = float(input("Valor do terceiro número:\n\t"));
 
 if var_numero1 > var_numero2 and var_numero1 > var_numero3:
     print("O maior número é:\n\t", var_numero1);
