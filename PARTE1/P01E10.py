@@ -3,8 +3,8 @@
 #b) a soma do triplo do primeiro com o terceiro.
 #c) o terceiro elevado ao cubo.
 
-var_int_numero1 = int(input("Digite um numero inteiro:\n"));
-var_int_numero2 = int(input("Digite um numero inteiro novamente\n"));
+var_int_numero1 = int(input("Digite um número inteiro:\n"));
+var_int_numero2 = int(input("Digite um número inteiro novamente\n"));
 var_float_numero3 = float(input("Digite um número real float:\n"));
 
 #a)
@@ -18,8 +18,3 @@ print("b) a soma do triplo do primeiro com o terceiro é:\n",var_letra_b);
 #c
 var_letra_c = (var_float_numero3 **3);
 print("c) o terceiro elevado ao cubo é:\n",var_letra_c);
-
-
-
-
-
